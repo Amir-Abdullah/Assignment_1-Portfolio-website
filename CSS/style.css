@@ -1,0 +1,30 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    padding: 5%;
+}
+h1{
+    font-size: 40px;
+}
+section{
+    display: flex
+}
+.sperate-font-color{
+    color: #be863e;
+}
+.width-makeup{
+    width: 50%;
+}
+.width-makeup img{
+    width: 60%;
+}
+.button-linking{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(204, 44, 23),rgb(177, 212, 95));
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font: 700;
+}
+#div-1{
+    padding: 5%;
+}
