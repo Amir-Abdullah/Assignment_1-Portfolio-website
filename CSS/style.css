@@ -58,6 +58,7 @@ h4{
 #first-background{
     background-color: green;
     text-align: justify;
+    box-shadow: 10px 10px;
 }
 #first-background img{
     height: 50%;
@@ -84,8 +85,22 @@ h4{
     font: 1200;
 }
 #section-3{
-    background-image: url("images/shapes/shape-1.PNG");
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background-image: url("../images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-position: left;
+}
+#section-4{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-image: url("../images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size: 25%;
+    border-image-slice: 9
 }
 .aaa div{
     height: 300px;
+    padding: 20px;
 }
