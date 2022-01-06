@@ -33,7 +33,7 @@ h4{
 .button-linking{
     font-size: 14px;
     text-decoration: none;
-    background-image: linear-gradient(rgb(204, 44, 23),rgb(177, 212, 95));
+    background-color: #ff5959;
     padding: 10px 30px;
     border-radius: 7px;
     color: white;
@@ -41,12 +41,6 @@ h4{
 }
 .width-makeup-image{
     text-align: center;
-}
-.foot{
-    padding: 10px;
-    text-align: center;
-    background-image: linear-gradient(rgb(41, 39, 39),rgb(124, 104, 104));
-    border-radius: 10px;
 }
 #div-1{
     padding: 5%;
@@ -63,7 +57,7 @@ h4{
 }
 #first-background img{
     height: 50%;
-    width: 45%;
+    width: 60%;
 }
 #sec-background{
     background-color: rgb(175, 196, 127);
@@ -71,7 +65,7 @@ h4{
 }
 #sec-background img{
     height: 50%;
-    width: 45%;
+    width: 50%;
 }
 #thrd-background{
     background-color: #f3a582;
@@ -87,9 +81,14 @@ h4{
     height: 410px;
     padding-left: 15px;
 }
+.foot{
+    text-align: center;
+    color: white;
+    background-color: #0b0d17;
+    padding: 2px;
+}
 #foot-part1{
-    font-size: 30px;
-    font: 1200;
+    color: #ff5959;
 }
 #section-3{
     padding-bottom: 50px;
