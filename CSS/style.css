@@ -44,7 +44,10 @@ h2{
     border-image-slice: 1;
 }
 #first-background{
-    background-image: url(images/illustrators/illustrator-1.png);
+    background-image: url("images/illustrators/illustrator-1.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 #sec-background{
     background-image: url(images/illustrators/illustrator-2.png)
