@@ -41,6 +41,10 @@ h3{
 .width-makeup-image{
     text-align: center;
 }
+.foot{
+    text-align: center;
+    background-image: linear-gradient(rgb(204, 44, 23),rgb(177, 212, 95));
+}
 #div-1{
     padding: 5%;
 }
@@ -61,4 +65,7 @@ h3{
 }
 #thrd-background{
     background-image: url(images/illustrators/illustrator-3.png)
+}
+#foot-part1{
+    font-size: 30px;
 }
