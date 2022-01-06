@@ -58,7 +58,7 @@ h4{
     border-image-slice: 1;
 }
 #first-background{
-    background-color: green;
+    background-color: rgb(212, 169, 169);
     text-align: justify;
 }
 #first-background img{
@@ -66,7 +66,7 @@ h4{
     width: 45%;
 }
 #sec-background{
-    background-color: hotpink;
+    background-color: rgb(175, 196, 127);
     text-align: justify;
 }
 #sec-background img{
@@ -74,7 +74,7 @@ h4{
     width: 45%;
 }
 #thrd-background{
-    background-color: indianred;
+    background-color: #f3a582;
     text-align: justify;
 }
 #thrd-background img{
@@ -82,10 +82,10 @@ h4{
     width: 45%;
 }
 .fix-size div{
-    border: 20px solid black;
     border-radius: 9px;
-    height: 300px;
-    padding: 20px;
+    margin: 15px;
+    height: 410px;
+    padding-left: 15px;
 }
 #foot-part1{
     font-size: 30px;
