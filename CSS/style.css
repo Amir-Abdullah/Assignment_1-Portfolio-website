@@ -60,7 +60,7 @@ h4{
 #first-background{
     background-color: green;
     text-align: justify;
-    box-shadow: 10px 10px;
+    border-radius: 9px;
 }
 #first-background img{
     height: 50%;
@@ -69,6 +69,7 @@ h4{
 #sec-background{
     background-color: hotpink;
     text-align: justify;
+    border-radius: 9px;
 }
 #sec-background img{
     height: 50%;
@@ -77,6 +78,7 @@ h4{
 #thrd-background{
     background-color: indianred;
     text-align: justify;
+    border-radius: 9px;
 }
 #thrd-background img{
     height: 50%;
@@ -103,7 +105,7 @@ h4{
     background-size: 25%;
     background-position: right 0% bottom -15%;
 }
-.aaa div{
+.fix-size div{
     height: 300px;
     padding: 20px;
 }
