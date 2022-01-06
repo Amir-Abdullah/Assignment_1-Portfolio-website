@@ -113,7 +113,11 @@ h4{
     background-color: rgb(174, 187, 178);
     height: 370px;
     border-radius: 15px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    background-image: url("../images/shapes/shape-6.png");
+    background-repeat: no-repeat;
+    background-size: 580px;
+    background-position: center;
 }
 input{
     height: 25px;
