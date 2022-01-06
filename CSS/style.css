@@ -43,7 +43,7 @@ h3{
 }
 .foot{
     text-align: center;
-    background-image: linear-gradient(rgb(204, 44, 23),rgb(177, 212, 95));
+    background-image: linear-gradient(rgb(41, 39, 39),rgb(124, 104, 104));
 }
 #div-1{
     padding: 5%;
@@ -68,4 +68,8 @@ h3{
 }
 #foot-part1{
     font-size: 30px;
+    font: 1200;
+}
+#section-3{
+    background-image: url("images/shapes/shape-1.PNG");
 }
