@@ -14,6 +14,10 @@ h3{
     font-size: 40px;
     font: 700;
 }
+h4{
+    font-size: 15px;
+    font: 400;
+}
 .flexiable{
     display: flex
 }
@@ -52,19 +56,28 @@ h3{
     border-image-slice: 1;
 }
 #first-background{
-    background-image: url("../images/illustrators/illustrator-1.png");
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-color: green;
+    text-align: justify;
+}
+#first-background img{
+    height: 50%;
+    width: 45%;
 }
 #sec-background{
-    background-image: url("../images/illustrators/illustrator-2.png");
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-color: hotpink;
+    text-align: justify;
+}
+#sec-background img{
+    height: 50%;
+    width: 45%;
 }
 #thrd-background{
-    background-image: url("../images/illustrators/illustrator-3.png");
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-color: indianred;
+    text-align: justify;
+}
+#thrd-background img{
+    height: 50%;
+    width: 45%;
 }
 #foot-part1{
     font-size: 30px;
