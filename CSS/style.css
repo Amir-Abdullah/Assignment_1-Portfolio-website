@@ -60,7 +60,6 @@ h4{
 #first-background{
     background-color: green;
     text-align: justify;
-    border-radius: 9px;
 }
 #first-background img{
     height: 50%;
@@ -69,7 +68,6 @@ h4{
 #sec-background{
     background-color: hotpink;
     text-align: justify;
-    border-radius: 9px;
 }
 #sec-background img{
     height: 50%;
@@ -78,11 +76,16 @@ h4{
 #thrd-background{
     background-color: indianred;
     text-align: justify;
-    border-radius: 9px;
 }
 #thrd-background img{
     height: 50%;
     width: 45%;
+}
+.fix-size div{
+    border: 20px solid black;
+    border-radius: 9px;
+    height: 300px;
+    padding: 20px;
 }
 #foot-part1{
     font-size: 30px;
@@ -104,8 +107,4 @@ h4{
     background-repeat: no-repeat;
     background-size: 25%;
     background-position: right 0% bottom -15%;
-}
-.fix-size div{
-    height: 300px;
-    padding: 20px;
 }
