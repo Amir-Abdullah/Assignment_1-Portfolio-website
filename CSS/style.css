@@ -2,6 +2,10 @@ body{
     margin: 0;
     font-family: 'Nunito', sans-serif;
     padding: 5%;
+    background-image: url("../images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-position: right 5% bottom 27%;
 }
 h1{
     font-size: 45px;
@@ -98,10 +102,6 @@ h4{
     height: 410px;
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url("../images/shapes/shape-1.png");
-    background-repeat: no-repeat;
-    background-size: 25%;
-    background-position: right 0% bottom -15%;
 }
 #creative{
     padding-top: 30px;
@@ -110,7 +110,7 @@ h4{
     font-size: 30px;
 }
 #section-last{
-    background-color: rgb(174, 187, 178);
+    background-color: #f0b479;
     height: 370px;
     border-radius: 15px;
     margin-bottom: 20px;
