@@ -103,3 +103,15 @@ h4{
     background-size: 25%;
     background-position: right 0% bottom -15%;
 }
+#creative{
+    padding-top: 30px;
+    padding-left: 420px;
+    text-align: justify;
+    font-size: 30px;
+}
+#section-last{
+    background-color: rgb(174, 187, 178);
+    height: 370px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
